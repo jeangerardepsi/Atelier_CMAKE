@@ -1,4 +1,3 @@
-
 name: CI Calculator
 
 on: [push]
